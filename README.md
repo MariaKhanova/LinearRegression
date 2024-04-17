@@ -1,5 +1,7 @@
-<img src=https://lms-cdn.skillfactory.ru/assets/courseware/v1/2c3b5a00129b4dbedff6ed9fd2995cdb/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/dst3-ml1-3_2.png>
-# Проект: Оценки отелей на Booking.com
+<img src= https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@dst3-ml1-3_1.png>
+
+
+# Проект: Линейная регрессия. Практика
 
 ## Оглавление
 [1. Описание проекта](#описание-проекта)  
